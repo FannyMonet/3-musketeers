@@ -15,7 +15,7 @@ By default, if you don't give the final currency, it will convert into euro, US 
 If you don't give any parameter, it will convert from US dollar to euro and Pound Sterling.</br>
   
 # Exemples:
-<code>node index.js 1 CAD EUR</code> </br>
+<code>node index.js</code> 1 CAD EUR </br>
 result : 1.60 (CAD) Canadian Dollar
 
 <code>node index.js 100</code></br>
