@@ -13,7 +13,10 @@ Convert an amount of money from a currency to another one (or many) :</br>
 <code>node index.js</code> <amount> <initial currency> <final currency> </br>
 By default, if you don't give the final currency, it will convert into euro, US dollar and Pound Sterling.</br>
 If you don't give any parameter, it will convert from US dollar to euro and Pound Sterling.</br>
-  
+</br>
+--save,  -s Save currencies as default currencies</br>
+--help,  -h Display help message</br>
+--version,  -v Display version number</br>
 # Examples:
 <code>node index.js 1 CAD EUR</code> </br>
 result : </br>
